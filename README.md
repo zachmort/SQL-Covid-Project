@@ -1,4 +1,4 @@
-#SQL-Covid-Project
+# SQL-Covid-Project
 
 <!-- Add banner here -->
 ![Banner](https://github.com/zachmort/SQL-Covid-Project/blob/main/covid_picture.jfif)
@@ -41,6 +41,6 @@ After you have introduced your project, it is a good idea to add a **Table of co
 
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README.
 
-- [Project Title](##SQL-Covid-Project)
+- [Project Title](# SQL-Covid-Project)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)

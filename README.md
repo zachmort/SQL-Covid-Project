@@ -18,7 +18,7 @@ This is a simple data dive into the data behind the Covid-19 cases/deaths/vaccin
 # League-of-Legends-Data-Analysis
 Machine Learning, Data Visualization and Data Analysis project involving League of Legends Data
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/zachmort/SQL-Covid-Project/include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/zachmort/SQL-Covid-Projectinclude_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/zachmort/SQL-Covid-Project)
 ![GitHub issues](https://img.shields.io/github/issues-raw/zachmort/SQL-Covid-Project)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/zachmort/SQL-Covid-Project)

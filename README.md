@@ -1,5 +1,7 @@
-# SQL-Covid-Project
+#SQL-Covid-Project
 
+<!-- Add banner here -->
+![Banner](https://github.com/zachmort/SQL-Covid-Project/blob/main/covid_picture.jfif)
 
 Using MS SQL Server 
  Inspired by AlextheAnalyst's video on creating a Data Analytics portfolio (I would recommend checking him out!)
@@ -11,9 +13,6 @@ This is a simple data dive into the data behind the Covid-19 cases/deaths/vaccin
 -Do countires with higher stringency scores (A score based on how quickly they shut down operations and recated to the virus) have less cases as a % of total population
 
 -Did countires with higher lung realted illnesses recieve vaccines first
-
-<!-- Add banner here -->
-![Banner](https://github.com/zachmort/SQL-Covid-Project/blob/main/covid_picture.jfif)
 
 # League-of-Legends-Data-Analysis
 Machine Learning, Data Visualization and Data Analysis project involving League of Legends Data
@@ -42,14 +41,6 @@ After you have introduced your project, it is a good idea to add a **Table of co
 
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README.
 
-- [Project Title](#project-title)
+- [Project Title](##SQL-Covid-Project)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Development](#development)
-- [Contribute](#contribute)
-    - [Sponsor](#sponsor)
-    - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
-- [License](#license)
-- [Footer](#footer)

@@ -3,6 +3,7 @@
 <!-- Add banner here -->
 ![Banner](https://github.com/zachmort/SQL-Covid-Project/blob/main/covid_picture.jfif)
 
+<!-- Describe your project in brief -->
 Using MS SQL Server 
  Inspired by AlextheAnalyst's video on creating a Data Analytics portfolio (I would recommend checking him out!)
  
@@ -16,17 +17,12 @@ This is a simple data dive into the data behind the Covid-19 cases/deaths/vaccin
 
 -Did countires with higher lung realted illnesses recieve vaccines first
 
-# League-of-Legends-Data-Analysis
-Machine Learning, Data Visualization and Data Analysis project involving League of Legends Data
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/zachmort/SQL-Covid-Projectinclude_prereleases)
 ![GitHub last commit](https://img.shields.io/github/last-commit/zachmort/SQL-Covid-Project)
 ![GitHub issues](https://img.shields.io/github/issues-raw/zachmort/SQL-Covid-Project)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/zachmort/SQL-Covid-Project)
 
-<!-- Describe your project in brief -->
-
-The project title should be self-explanatory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
 
 # Demo-Preview
 <!-- Add a demo for your project -->

@@ -15,7 +15,7 @@ This is a simple data dive into the data behind the Covid-19 cases/deaths/vaccin
 
 -Do countires with higher stringency scores (A score based on how quickly they shut down operations and recated to the virus) have less cases as a % of total population
 
--Did countires with higher lung realted illnesses recieve vaccines first
+-Did countires with higher lung realted illnesses recieve vaccines with prioritization
 
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/zachmort/SQL-Covid-Projectinclude_prereleases)
@@ -25,19 +25,15 @@ This is a simple data dive into the data behind the Covid-19 cases/deaths/vaccin
 
 
 # Demo-Preview
-<!-- Add a demo for your project -->
 
-After you have written about your project, it is a good idea to have a demo/preview(**video/gif/screenshots** are good options) of your project so that people can know what to expect in your project. You could also add the demo in the previous section with the product description.
+![Banner](https://github.com/zachmort/SQL-Covid-Project/blob/main/dashboard.PNG)
 
-Here is a random GIF as a placeholder.
+https://public.tableau.com/app/profile/zachary.mortenson/viz/CovidDashboard_16299332869700/Dashboard1
 
-![Random GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+The link above will bring you to a Tableau Dashboard created to show off some visualizations created from the queries ran in this analysis.
+
 
 # Table of contents
-
-After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.
-
-Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README.
 
 - [Project Title](#SQL-Covid-Project)
 - [Demo-Preview](#demo-preview)
